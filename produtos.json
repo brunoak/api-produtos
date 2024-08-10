@@ -3,7 +3,7 @@
     "produto":[
         {
             "id": 1,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20camiseta.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20camiseta.png?raw=true",
             "alt":"Camiseta conforto",
             "titulo": "Camiseta Conforto",
             "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão." ,
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20cal%C3%A7a.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20cal%C3%A7a.png?raw=true",
             "alt":"Calça Alfaiataria",
             "titulo": "Calça Alfaiataria",
             "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!" ,
@@ -19,7 +19,7 @@
         },
         {
             "id": 3,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20tenis.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20tenis.png?raw=true",
             "alt":"Tênis Chunky",
             "titulo": "Tênis Chunky",
             "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex." ,
@@ -27,7 +27,7 @@
         },
         {
             "id": 4,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card_jaqueta_jeans.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card_jaqueta_jeans.png?raw=true",
             "alt":"Jaqueta Jeans",
             "titulo": "Jaqueta Jeans",
             "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!" ,
@@ -35,7 +35,7 @@
         },
         {
             "id": 5,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Cards%20%C3%B3culos.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Cards%20%C3%B3culos.png?raw=true",
             "alt":"Óculos Redondo",
             "titulo": "Óculos Redondo",
             "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro!" ,
@@ -43,7 +43,7 @@
         },
         {
             "id": 6,
-            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20bolsa.png",
+            "imagem":"https://github.com/brunoak/api-produtos/blob/main/img/Card%20bolsa.png?raw=true",
             "alt":"Bolsa coringa",
             "titulo": "Bolsa coringa",
             "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!" ,
